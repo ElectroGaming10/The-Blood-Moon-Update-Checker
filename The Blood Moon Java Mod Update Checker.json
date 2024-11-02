@@ -1,0 +1,10 @@
+{
+  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
+  "1.20.1": {
+    "0.8.5": "" 
+  },
+  "promos": {
+    "1.20.1-latest": "0.8.5",
+    "1.20.1-recommended": "0.8.5"
+  }
+}
