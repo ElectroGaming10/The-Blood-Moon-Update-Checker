@@ -1,11 +1,11 @@
 {
   "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
   "1.20.1": {
-    "0.9": "Second Mod Version - DEMO; Added: Blood Moon Enemy Wave System, Modified: Moon Textures",
-    "0.8.5": "First Mod Version; Added World Rendering: Moon and Sun in Overworld, Added Gamerules: Do Blood Moon, Blood Moon Sleep, Despawn Blood Moon Entites" 
+    "0.9": "Second Mod Version - DEMO VERSION; Added: Blood Moon Enemy Wave System, Modified: Moon Textures",
+    "0.8.5": "First Mod Version - For DEVELOPERS; Added World Rendering: Moon and Sun in Overworld, Added Gamerules: Do Blood Moon, Blood Moon Sleep, Despawn Blood Moon Entites" 
   },
   "promos": {
-    "1.20.1-latest": "0.8.5",
-    "1.20.1-recommended": "0.8.5"
+    "1.20.1-latest": "0.9",
+    "1.20.1-recommended": "0.9"
   }
 }
